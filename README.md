@@ -9,12 +9,10 @@
 - [x] Bootstrap CSS;
 - [x] [Enrico Service 2.0](https://kayaposoft.com/enrico/)
 
-There are two types of users: **Admin** and simple **users**.\
-As Admin you can: C.R.U.D. all users and create task for users.\
-As User you only can change the status of the task(ToDo, InProgress, Done).\
+### Providing public holiday dates for ~50 countries.\
 
 The app picture:\
-![Image of App](https://github.com/Edvinas-S/public_holidays_app/blob/master/public/app.jpg)
+![Image of App](https://github.com/Edvinas-S/Country_public_holidays/blob/master/public/app.jpg)
 
 ### You can start it like this: 
 - Download zip project and unzip it;
